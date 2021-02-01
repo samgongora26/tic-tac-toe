@@ -1,0 +1,45 @@
+body {
+
+    background: rgb(48, 39, 212);
+    background: linear-gradient(90deg, rgba(48, 39, 212, 1) 0%, rgba(97, 82, 238, 1) 33%, rgba(19, 190, 244, 1) 100%);
+}
+
+.imagen1 {
+
+    width: 80%;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 0px;
+
+}
+
+.imagen2 {
+
+    width: 80%;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+}
+
+.card-game {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.507);
+    border-radius: 30px;
+    display: flex;
+}
+
+.btn-primary {
+    /*background-color: #13BEF4;*/
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 60px;
+    /*border-color: #13BEF4;*/
+}
+
+.btn-secondary {
+    /*background-color: #3027D4;*/
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 60px;
+    /*border-color: #3027D4*/
+    ;
+}
